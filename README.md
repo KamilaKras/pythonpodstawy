@@ -1,0 +1,2 @@
+# pythonpodstawy
+podstawy python - zajecia
